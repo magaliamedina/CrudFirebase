@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CrudFirebase</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_ape">Apellido</string>
+    <string name="txt_mail">Mail</string>
+    <string name="txt_paas">Password</string>
+    <string name="lista">Lista de Personas:</string>
+    <string name="iconos">Edit Done</string>
+</resources>
